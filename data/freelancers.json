@@ -163,6 +163,17 @@
        "skills": ["AWS", "GCP", "Kubernetes", "Golang", "Typescript", "Architecture", "Software design", "Scalability" ],
        "availability_hours_week": {"min": 5, "max": 20},
        "pricing_model": "Hourly"
+    },
+    {
+      "slack_name": "@eka",
+      "slack_member_id": "U01JA9Y0W3U",
+      "full_name": "Ekaitz Portillo",
+      "web": "",
+      "linkedin_handler": "ekaport",
+      "services": "I am a software engineer focused in backend development with a wide experience in marketplaces. Tell me what you need and I will let you know the options you have.",
+      "skills": ["Java", "Kotlin", "Spring", "Software architecture", "DDD", "TDD", "AWS", "IaC", "Docker", "SQL", "NoSQL"],
+      "availability_hours_week": {"min": 5, "max": 20},
+      "pricing_model": "Depending on the service requested"
     }
-    
+
 ]
